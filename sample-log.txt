@@ -1,3 +1,0 @@
-ERROR 503: Authentication service unavailable.
-Database connection pool exhausted.
-Multiple login requests failed within 2 minutes.

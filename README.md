@@ -211,7 +211,6 @@ This project helped build hands-on experience in:
 
 - Slack integration
 - Email notifications
-- Streamlit dashboard
 - Docker support
 - Redis + background workers
 - Vector database for AI memory

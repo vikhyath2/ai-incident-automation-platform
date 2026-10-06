@@ -1,8 +1,8 @@
 # AI Incident Automation Platform
 
-An AI-powered incident management and automation platform built using FastAPI, OpenAI, and SQLite.
+A Python-based incident automation service that analyzes application or infrastructure incidents, classifies severity with an LLM, stores incident history, and returns structured remediation guidance through a FastAPI API.
 
-This system analyzes logs, classifies incidents, stores results in a database, and automatically triggers alerts for critical failures.
+Built to explore how AI can support operational workflows without relying on unstructured model responses.
 
 ---
 

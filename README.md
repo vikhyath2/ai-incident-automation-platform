@@ -192,18 +192,8 @@ http://127.0.0.1:8000/docs
 
 # Learning Outcomes
 
-This project helped build hands-on experience in:
-
-- FastAPI backend development
-- REST API architecture
-- OpenAI API integration
-- AI-powered automation workflows
-- File upload handling
-- SQLite database operations
-- Event-driven alert systems
-- Structured JSON API responses
-- Git and GitHub workflows
-- Backend debugging and validation
+Building this project showed me that the LLM is only one part of an operational system. The harder part was making the output predictable enough for automation, handling invalid responses, and deciding how critical incidents should be treated differently from normal ones.  
+I also learned that incident tooling needs clear failure behavior. If the model returns an incomplete response or an API call fails, the system still needs to return something useful instead of breaking the workflow.
 
 ---
 
